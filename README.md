@@ -6,3 +6,8 @@ Se simulan las siguientes distribuciones:
   - Exponencial
   - Geométrica
   - Weibull
+
+https://practicamodelosestadisticos.shinyapps.io/main/
+
+# Licencia
+Copyright (c) 2014, Juan J. MIT License.
