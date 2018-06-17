@@ -10,4 +10,4 @@ Se simulan las siguientes distribuciones:
 https://practicamodelosestadisticos.shinyapps.io/main/
 
 # Licencia
-Copyright (c) 2015, Juan J. MIT License.
+Copyright (c) 2018, Juan J. MIT License.
